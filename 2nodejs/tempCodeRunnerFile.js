@@ -1,0 +1,1 @@
+console.log(path.join("c:/","programs\\vny.txt"))
